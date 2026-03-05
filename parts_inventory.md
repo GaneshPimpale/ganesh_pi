@@ -16,6 +16,7 @@
 | 10 | AP6256 | AP6256:AP6256 | 47 | WiFi 5 + BT 5.0 |
 | 11 | HD3SS215RTQR | HD3SS215RTQR:HD3SS215RTQR | 57 | USB SS switch (bonus) |
 | 12 | NCP380HMU05AATBG | NCP380HMU05AATBG:NCP380HMU05AATBG | 7 | USB VBUS load switch |
+| 13 | IT6505 | IT6505:IT6505 | 144 | eDP→DP transmitter (LQFP-144) |
 
 ### Also in libraries but NOT usable:
 - K4UBE3D4AB-MGCL — broken symbol (0 pins, empty)
@@ -26,20 +27,20 @@
 
 | # | Part | lib_id | Pins | Function |
 |---|---|---|---|---|
-| 13 | W25Q128JVS | Memory_Flash:W25Q128JVS | 8 | 16MB SPI NOR (bootloader) |
-| 14 | USB-C connector | Connector:USB_C_Receptacle | 25 | USB Type-C full-featured |
-| 15 | 40-pin GPIO header | Connector_Generic:Conn_02x20_Odd_Even | 40 | Pi-compatible GPIO |
-| 16 | USBLC6-2SC6 | Power_Protection:USBLC6-2SC6 | 6 | USB ESD protection |
-| 17 | Crystal | Device:Crystal | 2 | Oscillator crystals |
-| 18 | Passives | Device:R, Device:C, Device:L | 2 | Resistors, caps, inductors |
-| 19 | Power symbols | power:GND, power:+3V3, etc. | 1 | Power rails |
-| 20 | RTL8211EG | Interface_Ethernet:RTL8211EG-VB-CG | 65 | GbE PHY (alt to RTL8211F) |
+| 14 | W25Q128JVS | Memory_Flash:W25Q128JVS | 8 | 16MB SPI NOR (bootloader) |
+| 15 | USB-C connector | Connector:USB_C_Receptacle | 25 | USB Type-C full-featured |
+| 16 | 40-pin GPIO header | Connector_Generic:Conn_02x20_Odd_Even | 40 | Pi-compatible GPIO |
+| 17 | USBLC6-2SC6 | Power_Protection:USBLC6-2SC6 | 6 | USB ESD protection |
+| 18 | Crystal | Device:Crystal | 2 | Oscillator crystals |
+| 19 | Passives | Device:R, Device:C, Device:L | 2 | Resistors, caps, inductors |
+| 20 | Power symbols | power:GND, power:+3V3, etc. | 1 | Power rails |
+| 21 | RTL8211EG | Interface_Ethernet:RTL8211EG-VB-CG | 65 | GbE PHY (alt to RTL8211F) |
 
 ## Still Needs Importing
 
 | Part | Needed For | Action |
 |---|---|---|
-| IT6505FN | eDP -> DP converter | Search JLCPCB/Mouser, import or generate |
+| ~~IT6505FN~~ | ~~eDP -> DP converter~~ | ✅ Done — IT6505:IT6505 (144 pins, LQFP-144_20x20mm) |
 | RTL8211F-CG | GbE PHY (preferred) | Search JLCPCB; fallback: use RTL8211EG from KiCad |
 | SY8088AAC | 1.0V buck for VL805 | Search JLCPCB/Mouser |
 | AP2112K-3.3 | LDO 3.3V | Search JLCPCB/Mouser |

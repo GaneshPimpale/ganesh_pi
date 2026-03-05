@@ -16,4 +16,5 @@
 	(lib (name "VL805") (type "KiCad") (uri "${KIPRJMOD}/libraries/VL805/VL805.kicad_sym") (options "") (descr ""))
 	(lib (name "LT8711HE") (type "KiCad") (uri "${KIPRJMOD}/libraries/LT8711HE/LT8711HE.kicad_sym") (options "") (descr ""))
 	(lib (name "SY8088AAC") (type "KiCad") (uri "${KIPRJMOD}/libraries/SY8088AAC/SY8088AAC.kicad_sym") (options "") (descr ""))
+	(lib (name "IT6505") (type "KiCad") (uri "${KIPRJMOD}/libraries/IT6505/IT6505.kicad_sym") (options "") (descr ""))
 )
