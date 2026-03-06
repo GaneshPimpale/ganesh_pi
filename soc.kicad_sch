@@ -21487,7 +21487,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53726c85-d738-4724-812e-e4a969200ca2")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 420.37 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23466,7 +23466,7 @@
 					(unit 1)
 				)
 				(path "/6ade62f6-9cb2-4783-8048-f18138ca0ff8/d3c630df-b147-44f4-bec8-a7b2c063ed94"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
