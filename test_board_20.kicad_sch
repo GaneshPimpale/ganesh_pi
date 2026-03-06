@@ -7,7 +7,7 @@
 	(lib_symbols)
 	(sheet
 		(at 224.79 30.48)
-		(size 55 133.35)
+		(size 55 212.09)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -33,7 +33,7 @@
 			)
 		)
 		(property "Sheetfile" "storage.kicad_sch"
-			(at 224.79 164.4146 0)
+			(at 224.79 243.1546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -41,6 +41,216 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "EMMC_CLK" input
+			(at 224.79 33.02 180)
+			(uuid "4aba4f76-f49f-4bb6-9427-d0e87d890fc1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_CMD" input
+			(at 224.79 35.56 180)
+			(uuid "d809ab95-b420-4e91-858f-86bc98c8ac81")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D0" input
+			(at 224.79 38.1 180)
+			(uuid "354a5ad3-6ab7-4aaa-a492-df0d423d18e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D1" input
+			(at 224.79 40.64 180)
+			(uuid "1386fdb7-c805-46ee-833c-d7234e3ba7b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D2" input
+			(at 224.79 43.18 180)
+			(uuid "f9ff8d73-0472-4db4-ab7f-ba513e87eb6a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D3" input
+			(at 224.79 45.72 180)
+			(uuid "e0c7650e-48c5-442a-87de-f1b4fb570ef1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D4" input
+			(at 224.79 48.26 180)
+			(uuid "858b70fd-5cf6-4257-a28b-a758a1dae596")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D5" input
+			(at 224.79 50.8 180)
+			(uuid "ab1bf46f-2681-420c-a790-ec33202df90a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D6" input
+			(at 224.79 53.34 180)
+			(uuid "e224fd04-d484-485b-bfbe-94361ddadfbb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D7" input
+			(at 224.79 55.88 180)
+			(uuid "e040427f-6038-414b-81fe-1c6523c1d3c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_DATA_STROBE" input
+			(at 224.79 58.42 180)
+			(uuid "2045e38b-e125-4f27-b398-3d8281c04ce6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_RSTN" input
+			(at 224.79 60.96 180)
+			(uuid "7e04ff8a-a3f5-4156-9afb-d34f2681393f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC1V8_EMMC" input
+			(at 224.79 63.5 180)
+			(uuid "515b4c40-1f84-4d3d-adfb-853d7d0f86bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC3V3_EMMC" input
+			(at 224.79 66.04 180)
+			(uuid "dbba949d-63ea-4edb-844e-d707d63a30b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_FLASH_CLK" input
+			(at 224.79 68.58 180)
+			(uuid "8e2de17c-1cb7-40cb-8304-e425b4457c58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_FLASH_CS" input
+			(at 224.79 71.12 180)
+			(uuid "3f50c254-afde-498d-aa9c-cdbac897a213")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_FLASH_HOLD" input
+			(at 224.79 73.66 180)
+			(uuid "0f321cb6-84e4-4ca7-bc8c-7d9e2eb43819")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_FLASH_MISO" input
+			(at 224.79 76.2 180)
+			(uuid "6d45774f-bdd7-436a-a182-0c4370ed2a76")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_FLASH_MOSI" input
+			(at 224.79 78.74 180)
+			(uuid "24817823-3fee-4c7f-ad77-b2738dd5221c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_FLASH_WP" input
+			(at 224.79 81.28 180)
+			(uuid "4ff8fa1d-f1cf-4f96-96fe-b27550a9e314")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC3V3_SYS" input
+			(at 224.79 83.82 180)
+			(uuid "597a7c16-9bd9-4df1-af30-8301f266b0b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -923,7 +1133,7 @@
 	)
 	(sheet
 		(at 289.56 30.48)
-		(size 55 134.62)
+		(size 55 669.29)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -949,7 +1159,7 @@
 			)
 		)
 		(property "Sheetfile" "display.kicad_sch"
-			(at 289.56 165.6846 0)
+			(at 289.56 700.3546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -957,6 +1167,846 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "DP1_AUX_N" input
+			(at 289.56 33.02 180)
+			(uuid "71b6b64f-0373-4ad1-8dac-b9304a03b48d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_AUX_P" input
+			(at 289.56 35.56 180)
+			(uuid "03919a5c-f70d-4e7f-b030-9caae5525ce6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_HPD" input
+			(at 289.56 38.1 180)
+			(uuid "e9392f32-81f2-4ca1-87e2-94844849fc56")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX0_N" input
+			(at 289.56 40.64 180)
+			(uuid "2d7ebcea-f2bf-4d42-9d53-a1ffbe5b796b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX0_P" input
+			(at 289.56 43.18 180)
+			(uuid "f45e7c3b-64f7-4222-8875-490de9efa543")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX1_N" input
+			(at 289.56 45.72 180)
+			(uuid "ee52290b-3145-4589-8865-687bc52149bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX1_P" input
+			(at 289.56 48.26 180)
+			(uuid "f32039c3-9529-4432-aa89-59d10e4cfb0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX2_N" input
+			(at 289.56 50.8 180)
+			(uuid "ff7db7d5-5e3d-450f-b2a4-f3d8265375de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX2_P" input
+			(at 289.56 53.34 180)
+			(uuid "69096dc9-4e4d-4354-94be-93b88d1ad010")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX3_N" input
+			(at 289.56 55.88 180)
+			(uuid "9411b48e-020a-4372-b875-1b890b3998c5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX3_P" input
+			(at 289.56 58.42 180)
+			(uuid "ca559331-d517-4a6a-a2b3-8c87745440cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IT6505_INT" input
+			(at 289.56 60.96 180)
+			(uuid "add338f2-2082-4d32-983e-22e586df7902")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IT6505_RST_N" input
+			(at 289.56 63.5 180)
+			(uuid "6b5bfc73-0fc8-49fc-a9a0-42d51d603fc9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IT6505_SCL" input
+			(at 289.56 66.04 180)
+			(uuid "e6346543-41df-4892-9893-742ddeb69067")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IT6505_SDA" input
+			(at 289.56 68.58 180)
+			(uuid "4c907c2e-c6ca-4c90-9975-9a2a061960d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D0" input
+			(at 289.56 71.12 180)
+			(uuid "f7261192-dc11-4b74-91b6-5cacbacc50b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D1" input
+			(at 289.56 73.66 180)
+			(uuid "f6ce7401-184d-46e9-ba6a-50eeca367041")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D10" input
+			(at 289.56 76.2 180)
+			(uuid "66701382-14ad-47fe-966c-22cc2459adae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D11" input
+			(at 289.56 78.74 180)
+			(uuid "61eaedd3-7ee2-40d2-8edd-4d7ebb449592")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D12" input
+			(at 289.56 81.28 180)
+			(uuid "97f24620-a3de-40b5-8531-0a8ca92c5377")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D13" input
+			(at 289.56 83.82 180)
+			(uuid "efe485bd-9ac1-4c1d-b5cc-f710d4b6bee2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D14" input
+			(at 289.56 86.36 180)
+			(uuid "855ab329-cec0-4ba5-82bb-f819b36dfc72")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D15" input
+			(at 289.56 88.9 180)
+			(uuid "9eaaeec4-3a7d-4855-afa1-e538aed33b83")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D16" input
+			(at 289.56 91.44 180)
+			(uuid "57ea77a2-0f7d-48a4-82fe-913747ff87fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D17" input
+			(at 289.56 93.98 180)
+			(uuid "949d7676-c1e1-4341-92cf-a699b5dc28b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D18" input
+			(at 289.56 96.52 180)
+			(uuid "cee7cee8-4db4-4961-9369-eeb2dd704788")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D19" input
+			(at 289.56 99.06 180)
+			(uuid "7a8c32cf-6db5-4f8c-ac00-763b75db6a4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D2" input
+			(at 289.56 101.6 180)
+			(uuid "63bbfc0b-70f5-4eb2-b4ac-ddcd7fc45220")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D20" input
+			(at 289.56 104.14 180)
+			(uuid "ace41549-5a7a-4857-bd9b-d4e41250be51")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D21" input
+			(at 289.56 106.68 180)
+			(uuid "2b202016-bc4b-495d-8dcb-d10cc84ed61d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D22" input
+			(at 289.56 109.22 180)
+			(uuid "c663443c-9879-4554-8de4-2bd40a77bcb3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D23" input
+			(at 289.56 111.76 180)
+			(uuid "1cb59c96-cedf-4b26-bad0-4623a06755f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D3" input
+			(at 289.56 114.3 180)
+			(uuid "6ea3a974-0213-4447-b050-cbd5e12aeeea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D4" input
+			(at 289.56 116.84 180)
+			(uuid "8d05ef64-670f-4487-a3f2-eb698f2e63a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D5" input
+			(at 289.56 119.38 180)
+			(uuid "8ba6854f-9411-41d3-bcf2-03992e99dd61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D6" input
+			(at 289.56 121.92 180)
+			(uuid "cfe00c8f-68b0-49f4-9f3f-b85842a5fd6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D7" input
+			(at 289.56 124.46 180)
+			(uuid "7a69b961-fe27-4689-9e80-669b785cbe19")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D8" input
+			(at 289.56 127 180)
+			(uuid "da26b756-e899-44af-9630-5b5d8710500f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_D9" input
+			(at 289.56 129.54 180)
+			(uuid "23a75a9d-e763-44ec-8f04-9947798b0fa3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_DCLK" input
+			(at 289.56 132.08 180)
+			(uuid "771fd569-6c75-4cd2-9306-c7896f7346de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_DEN" input
+			(at 289.56 134.62 180)
+			(uuid "e1d6204e-1153-4dc0-b9a1-fa6cb999c7f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_HSYNC" input
+			(at 289.56 137.16 180)
+			(uuid "26aa5ad7-f571-4e8d-b962-726eea1e926d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LCDC_VSYNC" input
+			(at 289.56 139.7 180)
+			(uuid "ddd01a5f-0da6-46b8-89f9-9d747b719f3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC1V2_DISP" input
+			(at 289.56 142.24 180)
+			(uuid "e8ab220f-38be-49ec-80c4-af7344bb0b64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC1V8_DISP" input
+			(at 289.56 144.78 180)
+			(uuid "48e28b84-a9c9-45b9-a27e-9026ca2c8a93")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC3V3_DISP" input
+			(at 289.56 147.32 180)
+			(uuid "ffab5f8d-1595-40e1-b96c-e86dd31e70d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CSCL_GPIO3" input
+			(at 289.56 149.86 180)
+			(uuid "ef9ff1a2-b0c1-4b78-8455-7a1165bfe852")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_CEC" input
+			(at 289.56 177.8 180)
+			(uuid "c10d3d1b-f42c-48fc-91f7-3e4bdf6d26e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_CLK_N" input
+			(at 289.56 180.34 180)
+			(uuid "8c963020-3cfb-4af9-b571-0498bf217384")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_CLK_P" input
+			(at 289.56 182.88 180)
+			(uuid "c42f5a2b-8ba3-4a25-ac9c-76ed5180cd05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_DDC_SCL" input
+			(at 289.56 185.42 180)
+			(uuid "b5f08210-faad-4d82-849e-2916178412e1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_DDC_SDA" input
+			(at 289.56 187.96 180)
+			(uuid "b2173092-5575-4411-a2cc-866e2c002e32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_HPD" input
+			(at 289.56 190.5 180)
+			(uuid "38e88b8a-eac5-41cb-9110-8a7d6a5cc7dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX0_N" input
+			(at 289.56 193.04 180)
+			(uuid "7fb27b0d-c722-4f27-a4eb-01b1b9c10dc0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX0_P" input
+			(at 289.56 195.58 180)
+			(uuid "33138d68-d73a-4ff4-ade6-a0505743e850")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX1_N" input
+			(at 289.56 198.12 180)
+			(uuid "d453c40f-9d07-4415-9097-278c50c32518")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX1_P" input
+			(at 289.56 200.66 180)
+			(uuid "933ff896-437c-4fb2-a4a1-58e55ca1a18b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX2_N" input
+			(at 289.56 203.2 180)
+			(uuid "919e7559-174f-4c4c-90dc-bf83128c3f51")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX2_P" input
+			(at 289.56 205.74 180)
+			(uuid "9860141d-f3d7-4060-a8d4-8081f04fd7af")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LT8711_INT" input
+			(at 289.56 208.28 180)
+			(uuid "b68f6cce-a557-4203-af98-20f2eebe02f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LT8711_RST_N" input
+			(at 289.56 210.82 180)
+			(uuid "18d5f935-b415-452e-a627-77ffc1ff098e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LT8711_SDA" input
+			(at 289.56 213.36 180)
+			(uuid "501005fd-0a1a-409a-913e-7a5b1af5ee20")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_CC1" input
+			(at 289.56 215.9 180)
+			(uuid "678a6fa2-4e8f-4a5a-83f9-ebdf643e1fcb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_CC2" input
+			(at 289.56 218.44 180)
+			(uuid "bca76982-3505-42e5-b810-abcb9099af1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_CC2B" input
+			(at 289.56 220.98 180)
+			(uuid "730f5b55-2bf1-401e-af6a-46b35fe4bb89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_HPD" input
+			(at 289.56 223.52 180)
+			(uuid "3c1ac63b-44db-4017-8b2c-7847b5141bb8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS_HDMI" input
+			(at 289.56 226.06 180)
+			(uuid "aaa40480-cbd9-4a32-b336-743960556ee9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_USB0_DN" input
+			(at 289.56 228.6 180)
+			(uuid "ba6eb338-8c36-4478-b690-ee0f2d818629")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_USB0_DP" input
+			(at 289.56 231.14 180)
+			(uuid "2f58fcfb-ff46-4b53-8b3b-f761c4de865c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_USB1_DN" input
+			(at 289.56 233.68 180)
+			(uuid "ba064d5c-e13a-4aa1-81b5-7b874e0335a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_USB1_DP" input
+			(at 289.56 236.22 180)
+			(uuid "791a7ab8-67ef-4545-ab1a-1e325c30cbd4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_USB2_DN" input
+			(at 289.56 238.76 180)
+			(uuid "262f8055-271a-4189-9bdf-36849344407d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_USB2_DP" input
+			(at 289.56 241.3 180)
+			(uuid "7ac69e6d-ef8a-46c3-b0a1-447a191da6cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC5V0" input
+			(at 289.56 243.84 180)
+			(uuid "aa51d2e7-c8e4-4f60-ad66-3721f53616be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_AUXN" input
+			(at 289.56 246.38 180)
+			(uuid "a21df0c9-ba38-4d22-baa3-c8a219938306")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_AUXP" input
+			(at 289.56 248.92 180)
+			(uuid "cc44fc53-a58a-4854-a298-6f616c9148a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D0N" input
+			(at 289.56 251.46 180)
+			(uuid "f916dad0-2e92-43a7-b556-be9c3a5467d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D0P" input
+			(at 289.56 254 180)
+			(uuid "e70c9e9c-3ee5-4178-a65e-799443f1aa35")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D1N" input
+			(at 289.56 256.54 180)
+			(uuid "2d42a8e2-377a-4c78-b8f5-1dde79054b6d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D1P" input
+			(at 289.56 259.08 180)
+			(uuid "0edc301b-246e-4212-a249-0ceea6c15d9d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D2N" input
+			(at 289.56 261.62 180)
+			(uuid "ed75b906-72eb-4933-8ceb-0731f4fcb5a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D2P" input
+			(at 289.56 264.16 180)
+			(uuid "76d355a4-8236-463b-9879-35412b712dee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D3N" input
+			(at 289.56 266.7 180)
+			(uuid "9ac615fe-4fe4-4ba5-9653-e939a215088d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D3P" input
+			(at 289.56 269.24 180)
+			(uuid "518508e6-a62e-4be0-a7df-5f929638034a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
