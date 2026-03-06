@@ -277,6 +277,3826 @@
 				(justify left top)
 			)
 		)
+		(pin "DDR4_A0" input
+			(at 95.25 33.02 180)
+			(uuid "118344b2-2e15-4e28-83c5-ca9de229ea75")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A1" input
+			(at 95.25 35.56 180)
+			(uuid "ee08aae4-4090-44b1-9c2f-0d533878f14a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A10" input
+			(at 95.25 38.1 180)
+			(uuid "3743bfa4-5636-4124-97c0-4a85a60f5eb5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A11" input
+			(at 95.25 40.64 180)
+			(uuid "cf98235e-77df-49cd-ad6f-04c81126afab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A12" input
+			(at 95.25 43.18 180)
+			(uuid "a3234f7f-5a50-4b50-9702-349535275e76")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A13" input
+			(at 95.25 45.72 180)
+			(uuid "aeeec6f9-42aa-4705-a255-b921dd195d88")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A14_WEn" input
+			(at 95.25 48.26 180)
+			(uuid "9a00fda3-81f1-4ce8-b89f-f9addfcc1ecf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A15_CASn" input
+			(at 95.25 50.8 180)
+			(uuid "da7a779c-4650-4393-8cc3-0364ac77c5eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A16_RASn" input
+			(at 95.25 53.34 180)
+			(uuid "dda91225-e842-4d62-9b20-f66ce21d2a96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A2" input
+			(at 95.25 55.88 180)
+			(uuid "a6ebff8d-a32a-4032-a751-382a57667491")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A3" input
+			(at 95.25 58.42 180)
+			(uuid "df61a948-f31e-4874-9af7-1759cb4a294c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A4" input
+			(at 95.25 60.96 180)
+			(uuid "afcaf08b-3da3-4198-8cfd-14edbfc83c39")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A5" input
+			(at 95.25 63.5 180)
+			(uuid "01eeb9bf-1e56-4e21-9d6d-3ab637b4f692")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A6" input
+			(at 95.25 66.04 180)
+			(uuid "9c3c685c-7241-4834-85a9-d9b5518d72b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A7" input
+			(at 95.25 68.58 180)
+			(uuid "b5901cbb-d1c6-4b70-9af5-1f0bc7177a85")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A8" input
+			(at 95.25 71.12 180)
+			(uuid "5efa5f86-22d6-41b0-b0a6-7315267ad24c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_A9" input
+			(at 95.25 73.66 180)
+			(uuid "f01d2208-13e5-4343-afc3-1486875eb5c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_ACTn" input
+			(at 95.25 76.2 180)
+			(uuid "2c35b26e-06af-4aa2-984e-b1d476a53a8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_BA0" input
+			(at 95.25 78.74 180)
+			(uuid "6aa15bd2-f834-48cc-b3a8-378479c1203a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_BA1" input
+			(at 95.25 81.28 180)
+			(uuid "46ab27cc-f498-403e-a68c-56ed7f550db8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_BG0" input
+			(at 95.25 83.82 180)
+			(uuid "82d4607a-a962-4724-8aa2-0c92d5d7f1b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_BG1" input
+			(at 95.25 86.36 180)
+			(uuid "b09c65d6-d31d-4bc3-9f0c-e9f4b11a4f32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_CKE" input
+			(at 95.25 88.9 180)
+			(uuid "74a60c67-25b6-4ee1-9033-6ad2734036a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_CLKN" input
+			(at 95.25 91.44 180)
+			(uuid "ff2d3c50-f125-4a27-a862-30bfa680fcdd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_CLKP" input
+			(at 95.25 93.98 180)
+			(uuid "c6a91771-bcd3-4440-9f1f-76891814e33d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_CS0n" input
+			(at 95.25 96.52 180)
+			(uuid "2536d8aa-eba2-49b5-aa78-1962c355bf9b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_CS1n" input
+			(at 95.25 99.06 180)
+			(uuid "d3a822c8-16fc-4bf9-a7cf-13f4b252bb15")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_ODT0" input
+			(at 95.25 101.6 180)
+			(uuid "c27d607f-f1f1-4521-b9b3-025631cf1f2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_ODT1" input
+			(at 95.25 104.14 180)
+			(uuid "37738bc6-2b13-4901-860c-81b2d6943637")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR4_RESETn" input
+			(at 95.25 106.68 180)
+			(uuid "ea09ba3a-4e0e-40a9-b375-d2e18fd5aef3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DM0_A" input
+			(at 95.25 109.22 180)
+			(uuid "736d9975-ff2c-41e7-998b-a12c57fcfb02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DM1_A" input
+			(at 95.25 111.76 180)
+			(uuid "b8926ebe-f947-40c9-9349-59a907623ff5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ0_A" input
+			(at 95.25 114.3 180)
+			(uuid "652535ee-5e90-42a2-956f-7ac638ae2c02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ10_A" input
+			(at 95.25 116.84 180)
+			(uuid "52b05b25-4964-45cf-ad15-89d73f9b164c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ11_A" input
+			(at 95.25 119.38 180)
+			(uuid "6511b0a6-41bd-4c8d-8da3-ac57acaa96e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ12_A" input
+			(at 95.25 121.92 180)
+			(uuid "e9c35e17-215f-41ec-ad70-c52d88b0f5a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ13_A" input
+			(at 95.25 124.46 180)
+			(uuid "6872d27c-2acc-4b89-9619-b159754e48f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ14_A" input
+			(at 95.25 127 180)
+			(uuid "6be11518-a41f-469f-89b1-1859c1d147e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ15_A" input
+			(at 95.25 129.54 180)
+			(uuid "a2478b13-760f-4dd1-833e-db214677bbb4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ1_A" input
+			(at 95.25 132.08 180)
+			(uuid "9285b357-c791-48a4-9836-dfa546f97ce5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ2_A" input
+			(at 95.25 134.62 180)
+			(uuid "544e4ff0-f5c9-4e40-8a7e-36d2c3c56911")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ3_A" input
+			(at 95.25 137.16 180)
+			(uuid "2f27770d-864a-4dfb-9010-e0aa97a46f1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ4_A" input
+			(at 95.25 139.7 180)
+			(uuid "01befe61-f7be-407c-870d-edae79ba7db1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ5_A" input
+			(at 95.25 142.24 180)
+			(uuid "e438e238-f70d-4b48-832b-16ed74620abd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ6_A" input
+			(at 95.25 144.78 180)
+			(uuid "23c0b828-04f3-4841-abc4-ad93c9ee9e39")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ7_A" input
+			(at 95.25 147.32 180)
+			(uuid "2fcc8eb6-14e5-4e0a-99a7-e4a1d1a99edf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ8_A" input
+			(at 95.25 149.86 180)
+			(uuid "6f7a0926-9f76-406d-a499-e848a9134960")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ9_A" input
+			(at 95.25 152.4 180)
+			(uuid "5ad48988-8dfd-4a0e-88fc-836d2ea46d5f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQS0N_A" input
+			(at 95.25 154.94 180)
+			(uuid "6e6e8b0d-af95-4790-a68e-517ac3bd2e5d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQS0P_A" input
+			(at 95.25 157.48 180)
+			(uuid "1b86d06f-bb33-43cd-a2dc-441dddf1819f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQS1N_A" input
+			(at 95.25 160.02 180)
+			(uuid "11eebf07-5b6d-430d-8b13-b21216616a32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQS1P_A" input
+			(at 95.25 162.56 180)
+			(uuid "8a8cbc23-0671-4a8c-9a58-faa679ff6bc9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DM0_B" input
+			(at 95.25 165.1 180)
+			(uuid "dd2bdcec-ce86-42a9-938e-39ec759b3188")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DM1_B" input
+			(at 95.25 165.1 180)
+			(uuid "d45101c3-66f9-478c-b3ce-38e2bd2b51e8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ0_B" input
+			(at 95.25 165.1 180)
+			(uuid "67974ce1-b92d-45b4-bd4d-b214dbc58cab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ10_B" input
+			(at 95.25 165.1 180)
+			(uuid "d0ffb8b0-bb3e-4f41-948c-3181d2434668")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ11_B" input
+			(at 95.25 165.1 180)
+			(uuid "078f79f8-154b-45b4-9eaa-70d187c4c3d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ12_B" input
+			(at 95.25 165.1 180)
+			(uuid "79243f3f-5422-40bd-ac52-365b8639d952")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ13_B" input
+			(at 95.25 165.1 180)
+			(uuid "4e67a26f-8b11-461e-bc6b-e792b01353f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ14_B" input
+			(at 95.25 165.1 180)
+			(uuid "accf14fe-48be-4860-96d3-a4fed0849264")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ15_B" input
+			(at 95.25 165.1 180)
+			(uuid "a68043e4-a0e0-483d-88de-164842b73e02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ1_B" input
+			(at 95.25 165.1 180)
+			(uuid "19f14492-5b96-4837-8baf-9d355cc81af9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ2_B" input
+			(at 95.25 165.1 180)
+			(uuid "f363a39d-057b-4a05-8376-5bcb3b5b48e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ3_B" input
+			(at 95.25 165.1 180)
+			(uuid "f6be4dbc-22be-49e8-97e5-1a2711b4c140")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ4_B" input
+			(at 95.25 165.1 180)
+			(uuid "5087703e-fa02-42b6-8557-e1255a920031")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ5_B" input
+			(at 95.25 165.1 180)
+			(uuid "182b764d-4ed4-4994-ae9e-0e8dce4d9f81")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ6_B" input
+			(at 95.25 165.1 180)
+			(uuid "2d623538-9218-4bf5-bc2f-676fe72c811e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ7_B" input
+			(at 95.25 165.1 180)
+			(uuid "c85d812f-08b7-4cd1-ae78-7cbeb8fb780b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ8_B" input
+			(at 95.25 165.1 180)
+			(uuid "58cbafe2-0609-4216-829e-84eb2c66b4df")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQ9_B" input
+			(at 95.25 165.1 180)
+			(uuid "174c7cdb-8592-4bbd-ae41-1ca9cd0e3d24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQS0N_B" input
+			(at 95.25 165.1 180)
+			(uuid "45ce2f23-cc21-470e-a340-cc72b9183b64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQS0P_B" input
+			(at 95.25 165.1 180)
+			(uuid "7487166a-6d3b-4947-8d40-ba941d2c0f61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQS1N_B" input
+			(at 95.25 165.1 180)
+			(uuid "b9f15800-e962-43ea-be67-869ddc02743b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_DQS1P_B" input
+			(at 95.25 165.1 180)
+			(uuid "45bae4ed-bf28-4a9d-8e38-e66138e2d254")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DM" input
+			(at 95.25 165.1 180)
+			(uuid "4ab97f54-206a-4965-b0b9-bc06cec0b5eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQ0" input
+			(at 95.25 165.1 180)
+			(uuid "7739be2b-2e1f-4cff-8b1c-f1ba7eb3624e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQ1" input
+			(at 95.25 165.1 180)
+			(uuid "48993e2e-5e27-4366-85b1-81f3b0e17c43")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQ2" input
+			(at 95.25 165.1 180)
+			(uuid "4ceb8272-fc29-44a8-9b4d-c7447fbbef8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQ3" input
+			(at 95.25 165.1 180)
+			(uuid "a3f0a599-fa44-4f8e-984c-e8e0f177cd28")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQ4" input
+			(at 95.25 165.1 180)
+			(uuid "c36f2ad0-4676-41af-be71-76268d4caf2c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQ5" input
+			(at 95.25 165.1 180)
+			(uuid "ae4298a5-a0eb-4cd4-8eee-801721917194")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQ6" input
+			(at 95.25 165.1 180)
+			(uuid "6dd99483-3da7-4028-8908-12ca561c94c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQ7" input
+			(at 95.25 165.1 180)
+			(uuid "06e36534-4d88-4408-a15b-d869e32a088a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQS_N" input
+			(at 95.25 165.1 180)
+			(uuid "471b088f-3dad-4bb4-8d02-14ebd8adb19c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_ECC_DQS_P" input
+			(at 95.25 165.1 180)
+			(uuid "12ee794b-87b0-4f50-ad1f-f50f5b1b962b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_RZQ" input
+			(at 95.25 165.1 180)
+			(uuid "e2045df1-33b0-4556-a6f4-a8b2e943a5ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_VREFOUT" input
+			(at 95.25 165.1 180)
+			(uuid "1d60edcf-cd56-44e2-b989-c6d90f5bcaed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMITX_CEC" input
+			(at 95.25 165.1 180)
+			(uuid "ceaab6c7-dbde-4f75-a019-1089d628cd38")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMITX_SCL" input
+			(at 95.25 165.1 180)
+			(uuid "c4cf6614-457e-4995-9897-4671c617085c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMITX_SDA" input
+			(at 95.25 165.1 180)
+			(uuid "67552e27-7052-4e71-97d0-d5e1d36b3fcc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_CLKN" input
+			(at 95.25 165.1 180)
+			(uuid "ea8333b1-3eea-4672-be3d-3838a2da03bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_CLKP" input
+			(at 95.25 165.1 180)
+			(uuid "aa418bd7-0206-4c59-86b2-e631deab0cc7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_D0N" input
+			(at 95.25 165.1 180)
+			(uuid "8b7a3174-2a79-4b14-90ce-a8fe0cf188f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_D0P" input
+			(at 95.25 165.1 180)
+			(uuid "b149c254-1b18-4b29-b82f-f8b57aa89e15")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_D1N" input
+			(at 95.25 165.1 180)
+			(uuid "88d2c25f-8896-4381-9a00-e357d7448d11")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_D1P" input
+			(at 95.25 165.1 180)
+			(uuid "a287a4f5-5a5f-471c-bd4d-266c952d3d5a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_D2N" input
+			(at 95.25 165.1 180)
+			(uuid "8ea98c94-a66d-418f-9a92-8d3643b9c50e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_D2P" input
+			(at 95.25 165.1 180)
+			(uuid "e7ce191e-2587-4d19-acb6-6778623e9275")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_HPDIN" input
+			(at 95.25 165.1 180)
+			(uuid "0e26d487-68a3-4f59-b6f7-aa0c4e7e9b6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_REXT" input
+			(at 95.25 165.1 180)
+			(uuid "f6f9e742-5934-42bc-ac17-2bf5d6439f84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_CLKN" input
+			(at 95.25 165.1 180)
+			(uuid "c12a5d1e-8696-43da-83da-06084b282c52")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_CLKP" input
+			(at 95.25 165.1 180)
+			(uuid "5148de2a-b254-44dd-8740-9b96fe4e6982")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_D0N" input
+			(at 95.25 165.1 180)
+			(uuid "0882122b-2768-4386-aaa9-87d7c5f40f19")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_D0P" input
+			(at 95.25 165.1 180)
+			(uuid "7adcb755-27e1-4ef9-9774-892aba103ed7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_D1N" input
+			(at 95.25 165.1 180)
+			(uuid "46c309a2-262f-446f-8ac8-fd4c51b2f25b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_D1P" input
+			(at 95.25 165.1 180)
+			(uuid "b3073e85-73dc-4124-80bb-42bf18b8f773")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_D2N" input
+			(at 95.25 165.1 180)
+			(uuid "ed90a2b9-502d-4ec0-a48c-dfcfc31a5671")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_D2P" input
+			(at 95.25 165.1 180)
+			(uuid "d2de477e-7696-4fef-b108-734762886d2b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_D3N" input
+			(at 95.25 165.1 180)
+			(uuid "bde600b8-487b-4169-9e81-a15c300a201c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_D3P" input
+			(at 95.25 165.1 180)
+			(uuid "f55ce983-4d57-4462-aaba-18db3589671f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_CLKN" input
+			(at 95.25 165.1 180)
+			(uuid "4053f48a-22d4-4ea6-ad3d-a5eed11a7fa1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_CLKP" input
+			(at 95.25 165.1 180)
+			(uuid "dd2bec9e-aa6c-443f-80fc-a326f428d096")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_D0N" input
+			(at 95.25 165.1 180)
+			(uuid "be82f87a-0b3b-46de-baae-4777507ce1ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_D0P" input
+			(at 95.25 165.1 180)
+			(uuid "d1620f2f-dfbf-4aff-b155-5af39cc7ec5e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_D1N" input
+			(at 95.25 165.1 180)
+			(uuid "5536ac44-d58f-4244-8d0f-980a63fc7daf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_D1P" input
+			(at 95.25 165.1 180)
+			(uuid "8220d585-92a3-4ea6-bd58-7a04a9cf20ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_D2N" input
+			(at 95.25 165.1 180)
+			(uuid "c917a70c-dd7e-4fae-b04d-498ec8f90531")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_D2P" input
+			(at 95.25 165.1 180)
+			(uuid "a503550b-f32f-43f9-be91-fdcb3eb98a82")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_D3N" input
+			(at 95.25 165.1 180)
+			(uuid "ccd8193a-1333-466b-b4f3-80a9ba67569d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_D3P" input
+			(at 95.25 165.1 180)
+			(uuid "6caba998-6025-4379-98b4-070ad06f4420")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_AUXN" input
+			(at 95.25 165.1 180)
+			(uuid "25e4e2a1-c481-47c4-814c-1bbc6aedbab5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_AUXP" input
+			(at 95.25 165.1 180)
+			(uuid "51894162-4cd2-4bdf-b8ea-511ffdbabfe7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D0N" input
+			(at 95.25 165.1 180)
+			(uuid "1491856f-3705-4804-ae31-f59c6a3bd813")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D0P" input
+			(at 95.25 165.1 180)
+			(uuid "a19def08-7848-472b-8d5d-430c6be74ac1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D1N" input
+			(at 95.25 165.1 180)
+			(uuid "633c4b1c-ef8a-4668-a146-b41e9f3cda91")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D1P" input
+			(at 95.25 165.1 180)
+			(uuid "995d95f1-91c0-4485-9332-c37a3a114557")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D2N" input
+			(at 95.25 165.1 180)
+			(uuid "fb0e530b-563b-4dac-818c-c82d6885d02c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D2P" input
+			(at 95.25 165.1 180)
+			(uuid "f046646f-ac41-4740-aec4-2ca14678d908")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D3N" input
+			(at 95.25 165.1 180)
+			(uuid "802111e8-7b3d-4070-a5a3-5d874362836d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_D3P" input
+			(at 95.25 165.1 180)
+			(uuid "4b94ae7c-cb97-4080-801b-b0f2434033ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_CLK0N" input
+			(at 95.25 165.1 180)
+			(uuid "44b4322b-2000-4e20-a75a-9154fcb20a2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_CLK0P" input
+			(at 95.25 165.1 180)
+			(uuid "a730ee8b-ae27-45c8-b30a-ee93b34c494a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_CLK1N" input
+			(at 95.25 165.1 180)
+			(uuid "2e20d5cc-b2b0-4231-ac3f-fd96c05771fd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_CLK1P" input
+			(at 95.25 165.1 180)
+			(uuid "44cca7f2-11d3-40d9-9b38-b34180b5d588")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_D0N" input
+			(at 95.25 165.1 180)
+			(uuid "af861774-2a03-4dcc-8bb2-7531ef680a58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_D0P" input
+			(at 95.25 165.1 180)
+			(uuid "3dc11d59-2730-494e-8872-dece53fd1370")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_D1N" input
+			(at 95.25 165.1 180)
+			(uuid "1e924638-f587-4f19-b5b3-d1a142b034c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_D1P" input
+			(at 95.25 165.1 180)
+			(uuid "b06f7ed2-f56c-47b1-a797-09746727018c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_D2N" input
+			(at 95.25 165.1 180)
+			(uuid "1c95c6c2-b69b-4d73-91c5-7c22bca86e12")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_D2P" input
+			(at 95.25 165.1 180)
+			(uuid "724eed8c-b2a9-4164-a3e7-a43b625193f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_D3N" input
+			(at 95.25 165.1 180)
+			(uuid "4f5a24e2-59dc-4c0e-ac73-58a7b1cd7294")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_D3P" input
+			(at 95.25 165.1 180)
+			(uuid "d42e4a51-11a2-4849-a09b-d30a3b4acada")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB2_HOST2_DM" input
+			(at 95.25 165.1 180)
+			(uuid "50593262-044e-4f32-b528-02bd40a6a572")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB2_HOST2_DP" input
+			(at 95.25 165.1 180)
+			(uuid "878a2268-3350-407f-ab2b-4dac98b6e990")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB2_HOST3_DM" input
+			(at 95.25 165.1 180)
+			(uuid "14a8a6f7-7ad8-4113-b609-11a1ce4c387f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB2_HOST3_DP" input
+			(at 95.25 165.1 180)
+			(uuid "4344a654-7c40-4b81-8788-f2397dde60d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_HOST1_DM" input
+			(at 95.25 165.1 180)
+			(uuid "033ccba9-d3a5-432d-b1f2-b3bddbb41cf8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_HOST1_DP" input
+			(at 95.25 165.1 180)
+			(uuid "a2a49947-2bab-4948-96bb-3d34467deb7f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_HOST1_SSRXN" input
+			(at 95.25 165.1 180)
+			(uuid "7e41ca9f-b86d-4d8d-996d-360783264e71")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_HOST1_SSRXP" input
+			(at 95.25 165.1 180)
+			(uuid "d0310fcf-aa27-44cd-b3b9-e8ad84eb018f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_HOST1_SSTXN" input
+			(at 95.25 165.1 180)
+			(uuid "c9d0b892-e380-4db2-88b3-0596f5adef14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_HOST1_SSTXP" input
+			(at 95.25 165.1 180)
+			(uuid "b14c1ea3-4fd0-4336-a1f9-08ae567a464e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_DM" input
+			(at 95.25 165.1 180)
+			(uuid "918532ad-4d21-4dbd-993e-70c5fe527f63")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_DP" input
+			(at 95.25 165.1 180)
+			(uuid "54504c90-e592-4933-8d44-d2cc85b99b18")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_ID" input
+			(at 95.25 165.1 180)
+			(uuid "c7c8abe1-c390-4623-b23c-8385497d11e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_SSRXN" input
+			(at 95.25 165.1 180)
+			(uuid "a45eb98f-02f3-430f-b306-5f87b176906a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_SSRXP" input
+			(at 95.25 165.1 180)
+			(uuid "9e100308-ab86-4f00-8693-eaf39daa9a4c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_SSTXN" input
+			(at 95.25 165.1 180)
+			(uuid "eb9977bd-6b8c-4220-9c12-a02ce0c2a360")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_SSTXP" input
+			(at 95.25 165.1 180)
+			(uuid "891bb43e-6fee-41c8-8dc5-748d149a0904")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_VBUSDET" input
+			(at 95.25 165.1 180)
+			(uuid "1f86feaa-2e0d-4600-8b19-94583ddaec92")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MULTI_PHY0_REFCLKN" input
+			(at 95.25 165.1 180)
+			(uuid "92557b70-5b48-436c-a1c3-27ff51fff751")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MULTI_PHY0_REFCLKP" input
+			(at 95.25 165.1 180)
+			(uuid "a442b2ba-cb1e-4fce-957a-1358126602f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MULTI_PHY1_REFCLKN" input
+			(at 95.25 165.1 180)
+			(uuid "68b47245-d3ec-44c0-afc4-576f779bc36c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MULTI_PHY1_REFCLKP" input
+			(at 95.25 165.1 180)
+			(uuid "14422638-2626-4246-bc3e-736e9dd8b457")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_REFCLKN" input
+			(at 95.25 165.1 180)
+			(uuid "f520a185-7c7e-41d7-8a43-8ddb1cf377ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_REFCLKP" input
+			(at 95.25 165.1 180)
+			(uuid "ad366a70-d68b-40e1-b9ae-99e7538490cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_RXN" input
+			(at 95.25 165.1 180)
+			(uuid "06889b40-5979-4def-99e2-2604143a7a1a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_RXP" input
+			(at 95.25 165.1 180)
+			(uuid "1f04c0a4-8a6e-4bf9-b3d2-582348504288")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_TXN" input
+			(at 95.25 165.1 180)
+			(uuid "0f5e9011-0403-476b-a401-dbf815d4f5f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_TXP" input
+			(at 95.25 165.1 180)
+			(uuid "af58823e-8489-4b97-af97-3687c24d1a76")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_REFCLKN_IN" input
+			(at 95.25 165.1 180)
+			(uuid "2adb715c-c328-4a5c-8db0-e3172a5cd3cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_REFCLKP_IN" input
+			(at 95.25 165.1 180)
+			(uuid "ddaabea2-3f6b-413e-ae45-d7d80c722837")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_RESREF" input
+			(at 95.25 165.1 180)
+			(uuid "0f3d8428-0510-4626-9482-277d7d772f0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_RX0N" input
+			(at 95.25 165.1 180)
+			(uuid "3643942f-94f5-4f13-87b6-00450d9a9fae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_RX0P" input
+			(at 95.25 165.1 180)
+			(uuid "a8ca27ca-0f66-41f5-abe1-f8e6a45ddd59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_RX1N" input
+			(at 95.25 165.1 180)
+			(uuid "b515f4c8-5a27-472c-8572-38ad8bbacabd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_RX1P" input
+			(at 95.25 165.1 180)
+			(uuid "00e07bc0-3af0-46f0-97a4-eb085105ec61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_TX0N" input
+			(at 95.25 165.1 180)
+			(uuid "319d84ad-37c1-4981-b0f9-bf6a50a84207")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_TX0P" input
+			(at 95.25 165.1 180)
+			(uuid "c060793d-e90b-46bb-9969-f02a168af3d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_TX1N" input
+			(at 95.25 165.1 180)
+			(uuid "f5a06aa0-9abe-4ec2-b94b-1bb591806812")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_TX1P" input
+			(at 95.25 165.1 180)
+			(uuid "8d60b540-4a4f-4d06-8099-1067507fc27c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_CLKOUT" input
+			(at 95.25 165.1 180)
+			(uuid "a27227ce-bab8-4b13-ae6e-e59cebd0b78c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_CMD" input
+			(at 95.25 165.1 180)
+			(uuid "2fad741c-fbb8-4647-b9ad-31fe8690c566")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D0" input
+			(at 95.25 165.1 180)
+			(uuid "cb60c55e-3ac2-4c89-b871-66f54db0d72f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D1" input
+			(at 95.25 165.1 180)
+			(uuid "edce75a9-0c01-41c6-879e-743c3c612e43")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D2" input
+			(at 95.25 165.1 180)
+			(uuid "a580851d-d9e1-47dd-95c8-4ac2147cc620")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D3" input
+			(at 95.25 165.1 180)
+			(uuid "e02fd390-1139-4971-9fe7-9f2fa3611a9b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D4" input
+			(at 95.25 165.1 180)
+			(uuid "7495c9b0-0d7f-4401-a03e-128df5bb5de3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D5" input
+			(at 95.25 165.1 180)
+			(uuid "8385314c-a1da-48e4-a832-858a224a1074")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D6" input
+			(at 95.25 165.1 180)
+			(uuid "6063a283-1d11-443a-b882-0026e9bd4bb7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_D7" input
+			(at 95.25 165.1 180)
+			(uuid "3c90b5df-fae0-4639-a86f-705d7766f353")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_DATA_STROBE" input
+			(at 95.25 165.1 180)
+			(uuid "3070267c-6563-4a32-805a-42f332db6afe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EMMC_RSTn" input
+			(at 95.25 165.1 180)
+			(uuid "9d7595d6-5db4-4c14-8ea8-0401c18934e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FSPI_CLK" input
+			(at 95.25 165.1 180)
+			(uuid "301ae9bf-ec03-410d-bb59-3844960b3dee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FSPI_CS0n" input
+			(at 95.25 165.1 180)
+			(uuid "eca77af7-27e3-43c1-9e39-f79f65f7a14f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FSPI_D0" input
+			(at 95.25 165.1 180)
+			(uuid "5e41990f-3b99-4869-a62c-5c8cb56b0116")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FSPI_D1" input
+			(at 95.25 165.1 180)
+			(uuid "b7257ef4-63ee-4958-9c81-432e2ad8d914")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FSPI_D3" input
+			(at 95.25 165.1 180)
+			(uuid "887ac0c0-830b-4123-aef2-aee45d96e02c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_RXD0" input
+			(at 95.25 165.1 180)
+			(uuid "3e8c1c2c-3848-419f-8f24-365ab9c47171")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_TXD0" input
+			(at 95.25 165.1 180)
+			(uuid "88c5e658-5795-4138-b783-094a20e82b05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_TXD1" input
+			(at 95.25 165.1 180)
+			(uuid "1cf59e49-2766-4bfb-9692-a1e641dd005a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_TXEN" input
+			(at 95.25 165.1 180)
+			(uuid "0ebf7705-6217-4fbb-b7e9-68a07d486379")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_VIN0" input
+			(at 95.25 165.1 180)
+			(uuid "ad022568-877b-4651-928b-00d1187d8e83")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_VIN1" input
+			(at 95.25 165.1 180)
+			(uuid "0138ccba-bf0f-414e-b38b-6eb020b274e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_VIN2" input
+			(at 95.25 165.1 180)
+			(uuid "3b71192b-4859-406f-93a8-0ba13cc086aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_VIN3" input
+			(at 95.25 165.1 180)
+			(uuid "9c238962-62d7-4425-b127-f01eea26c1f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_VIN4" input
+			(at 95.25 165.1 180)
+			(uuid "08f8601f-03ee-401e-935f-6ecdc3b94b4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_VIN5" input
+			(at 95.25 165.1 180)
+			(uuid "146717e1-dbdd-4d2a-bb0c-ffb3c2319acb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_VIN6" input
+			(at 95.25 165.1 180)
+			(uuid "14929a5c-2f35-4c0e-baad-0198c55ea68e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_VIN7" input
+			(at 95.25 165.1 180)
+			(uuid "a3f7b44a-b6b3-4a0b-a58e-d2be18cbd07f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC1_CLK" input
+			(at 95.25 165.1 180)
+			(uuid "b4c1bb80-2bd9-4481-b356-89de96498e4f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC1_CMD" input
+			(at 95.25 165.1 180)
+			(uuid "7c97b97c-8d58-4da3-bfba-599dd9b7dee3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC1_D0" input
+			(at 95.25 165.1 180)
+			(uuid "0defaefb-a02a-4b3a-baca-c8e9fd870230")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC1_D1" input
+			(at 95.25 165.1 180)
+			(uuid "df7437a3-2fff-458a-8581-dbc395d6d84b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC1_D2" input
+			(at 95.25 165.1 180)
+			(uuid "69338586-596d-49c5-97cd-376389c86aaa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC1_D3" input
+			(at 95.25 165.1 180)
+			(uuid "67525f78-40a5-4b6c-8c66-039bd97996f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC1_DET" input
+			(at 95.25 165.1 180)
+			(uuid "8e6eadad-fa3a-48a9-946a-97febe7cffd1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC1_PWREN" input
+			(at 95.25 165.1 180)
+			(uuid "a903ce89-5864-4f68-8d39-e790a09c2685")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CLK32K_OUT1" input
+			(at 95.25 165.1 180)
+			(uuid "7a2b11bc-f35e-454f-b69c-ab14e495ea94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_ETH_REFCLK" input
+			(at 95.25 165.1 180)
+			(uuid "8ce75baf-b8c3-453d-9a3a-8937b8d08c36")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_MCLKINOUT" input
+			(at 95.25 165.1 180)
+			(uuid "616167d8-d572-4fc4-8aa3-976c9eb6cf23")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_MDC" input
+			(at 95.25 165.1 180)
+			(uuid "e2345f12-8265-40b6-a3a7-dea90bcbed3d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_MDIO" input
+			(at 95.25 165.1 180)
+			(uuid "9cce6dfa-a084-48df-930e-51fae8050727")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_RXD1" input
+			(at 95.25 165.1 180)
+			(uuid "3646f618-fea1-4a46-b947-3c4ad21c269b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_RXDV_CRS" input
+			(at 95.25 165.1 180)
+			(uuid "4cc92def-2888-4ebd-89b4-3224480adba2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GMAC0_RXER" input
+			(at 95.25 165.1 180)
+			(uuid "077caa85-c63d-42c2-b79c-696c777e76e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC0_CLK" input
+			(at 95.25 165.1 180)
+			(uuid "326b1a94-a8d3-409f-82d0-54783d102e6a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC0_CMD" input
+			(at 95.25 165.1 180)
+			(uuid "b499935d-36d0-4300-a4eb-f187380f4152")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC0_D0" input
+			(at 95.25 165.1 180)
+			(uuid "2191050f-320e-4565-aaaf-4edd7df00356")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC0_D1" input
+			(at 95.25 165.1 180)
+			(uuid "454c87bc-7ea6-4f6c-9a4d-8e91fb907d08")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC0_D2" input
+			(at 95.25 165.1 180)
+			(uuid "c618d391-8df8-42be-a9e2-80d63a5f8fd3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC0_D3" input
+			(at 95.25 165.1 180)
+			(uuid "e72e2d07-f8c1-40c6-9fff-781498f9eeb3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CLK32K_IN" input
+			(at 95.25 165.1 180)
+			(uuid "fcd374d9-4ffd-4499-b1a5-a7ac42ff550c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_HPDIN" input
+			(at 95.25 165.1 180)
+			(uuid "9cd4507b-a704-4d82-abd6-1751b879d266")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FLASH_VOL_SEL" input
+			(at 95.25 165.1 180)
+			(uuid "51fa8442-e37a-4668-8ca6-fa8450fb6c77")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMIC_SLEEP" input
+			(at 95.25 165.1 180)
+			(uuid "a128fae7-ee3b-4dc2-9a0f-c5a4a3fcae64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "REFCLK_OUT" input
+			(at 95.25 165.1 180)
+			(uuid "9bc3e89f-9018-4236-bf82-57a3cc14914b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDMMC0_DET" input
+			(at 95.25 165.1 180)
+			(uuid "b79fe183-d6a6-47d9-a7f1-d212385e8719")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TSADC_SHUT" input
+			(at 95.25 165.1 180)
+			(uuid "e6b8a312-75a6-4763-8417-f0b068861ea5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "XIN24M" input
+			(at 95.25 165.1 180)
+			(uuid "2e58c95b-e55f-4507-9a7e-c81f4c7cfae4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "XOUT24M" input
+			(at 95.25 165.1 180)
+			(uuid "65c314cf-3a41-4983-9ecf-c3783c650f3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "nPOR" input
+			(at 95.25 165.1 180)
+			(uuid "b387a571-be5a-4eef-8b2b-211153a46073")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_A3" input
+			(at 95.25 165.1 180)
+			(uuid "03afb6b9-7c0a-41e9-89ec-63b704de08d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_B2" input
+			(at 95.25 165.1 180)
+			(uuid "ca2962d4-68f1-45ac-9fee-27385c4b0ab9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_B4" input
+			(at 95.25 165.1 180)
+			(uuid "2e052b3d-4689-4faa-8076-db4b1efbe9a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_B6" input
+			(at 95.25 165.1 180)
+			(uuid "45c2933c-d0b1-4a0a-a5be-ee5be3c0ac2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_D4" input
+			(at 95.25 165.1 180)
+			(uuid "ed24311b-271a-4ca0-995c-42faf117063c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_A2" input
+			(at 95.25 165.1 180)
+			(uuid "cdca6aba-9bb2-488d-93a6-d68955462a94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_A5" input
+			(at 95.25 165.1 180)
+			(uuid "b0cdc9d3-3167-4b42-9407-8277aa36832d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_B2" input
+			(at 95.25 165.1 180)
+			(uuid "56b29dae-0dce-4794-9c20-f9fca4509496")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_A1" input
+			(at 95.25 165.1 180)
+			(uuid "8cf38ae8-bd80-4427-a75f-6b38bd33977d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_C2" input
+			(at 95.25 165.1 180)
+			(uuid "ddeba242-2030-4aa8-9df4-88f56849c31d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_C7" input
+			(at 95.25 165.1 180)
+			(uuid "7bcceff7-4f6a-4dd4-8968-8783bb9d9a7b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_D0" input
+			(at 95.25 165.1 180)
+			(uuid "80b59cea-3fa3-43d9-94bc-b19679641db3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_D1" input
+			(at 95.25 165.1 180)
+			(uuid "fdac74b6-a4f5-45bc-80bf-4b3e40bad233")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_D3" input
+			(at 95.25 165.1 180)
+			(uuid "10591e1c-55f8-4ae3-a451-061916f617e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_D4" input
+			(at 95.25 165.1 180)
+			(uuid "8d24dde5-e5dd-49a7-b486-b12c8f951118")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_D5" input
+			(at 95.25 165.1 180)
+			(uuid "5ae48b4a-c347-4d9a-8211-466214485907")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_A0" input
+			(at 95.25 165.1 180)
+			(uuid "39d8a923-a739-4825-92ef-d4b1f8b59b62")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_A1" input
+			(at 95.25 165.1 180)
+			(uuid "23dc25a7-54fd-4682-a203-9223fc424f39")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_C3" input
+			(at 95.25 165.1 180)
+			(uuid "029f26b8-8807-4c1d-9628-296dfb6d8b3e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_D2" input
+			(at 95.25 165.1 180)
+			(uuid "e48c054e-f0bd-40fa-95d8-c374cc4061c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_B5" input
+			(at 95.25 165.1 180)
+			(uuid "4226b336-8cff-417a-84a4-fb3cd1376985")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_C4" input
+			(at 95.25 165.1 180)
+			(uuid "e04f2f66-83d0-4ab9-9fa7-970298a78d21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_C5" input
+			(at 95.25 165.1 180)
+			(uuid "471767f2-c05b-4a8b-a40d-fe9e5956274f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_C6" input
+			(at 95.25 165.1 180)
+			(uuid "342ad965-34b7-4a3c-b3b7-bfeb99f2a34e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_D5" input
+			(at 95.25 165.1 180)
+			(uuid "6171d0cc-53fe-4d8e-a8f2-747842cac872")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_D6" input
+			(at 95.25 165.1 180)
+			(uuid "2efa7f3d-c7cb-47f3-a895-a577e7b320fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2_D1" input
+			(at 95.25 165.1 180)
+			(uuid "33c47438-158b-4760-b68f-154c62883d48")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2_D2" input
+			(at 95.25 165.1 180)
+			(uuid "13373504-7560-4fc3-acb5-fc03fbc8e70b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2_D3" input
+			(at 95.25 165.1 180)
+			(uuid "22f7ac48-eb1b-4639-bf45-58c6a48a98be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2_D6" input
+			(at 95.25 165.1 180)
+			(uuid "8caf0980-d83f-40a3-9d2d-1b971a5a7ed3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_B7" input
+			(at 95.25 165.1 180)
+			(uuid "6de6432d-bfbc-4bc2-a037-c2b2c276c224")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_C0" input
+			(at 95.25 165.1 180)
+			(uuid "7915cf77-c0d8-4eeb-b725-ac1e8e5e0f4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_C1" input
+			(at 95.25 165.1 180)
+			(uuid "72d78b9b-5de7-4666-b7f2-e390d16d5876")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_C3" input
+			(at 95.25 165.1 180)
+			(uuid "1cc9f59e-f83f-4401-beee-3461087ddd0c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_C4" input
+			(at 95.25 165.1 180)
+			(uuid "a9a2571b-5e70-403d-8b70-f33888559d24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_C5" input
+			(at 95.25 165.1 180)
+			(uuid "94a497dd-0dcc-4417-a223-76af0d2b478b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_C6" input
+			(at 95.25 165.1 180)
+			(uuid "8810c43b-8db0-49ea-8b5a-49f8c062baaa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_C5" input
+			(at 95.25 165.1 180)
+			(uuid "f789445c-57fc-4a35-b67c-b4781c479d9b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART0_RX" input
+			(at 95.25 165.1 180)
+			(uuid "0d45527a-7679-4094-8d61-4d1f73c14e0e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART2_RX" input
+			(at 95.25 165.1 180)
+			(uuid "3ebae0c8-18d2-493e-9057-300ea1934f3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_A5" input
+			(at 95.25 165.1 180)
+			(uuid "d55844d5-38ee-415d-b595-1e53c4304b1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_A6" input
+			(at 95.25 165.1 180)
+			(uuid "e67affcf-0a39-49ba-a1f3-07418f87f64c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_C2" input
+			(at 95.25 165.1 180)
+			(uuid "493b9b99-2e24-4c33-9aad-a780bdbcc773")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_C3" input
+			(at 95.25 165.1 180)
+			(uuid "e31b0a9f-c36f-4648-8684-04186932e683")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_D3" input
+			(at 95.25 165.1 180)
+			(uuid "c2aa7630-00fd-4ea8-8213-a6bfcb76583d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2_D4" input
+			(at 95.25 165.1 180)
+			(uuid "b8df315f-66dc-4ffb-9909-56aebf1997e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2_D5" input
+			(at 95.25 165.1 180)
+			(uuid "aabb9dad-7143-4633-a267-73e7c4de48ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_A2" input
+			(at 95.25 165.1 180)
+			(uuid "a56ab2c2-e0a6-4593-a071-7b3250a180cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_A4" input
+			(at 95.25 165.1 180)
+			(uuid "6421570b-9576-4c70-b8e3-931c62913f8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_B0" input
+			(at 95.25 165.1 180)
+			(uuid "90568115-ddd4-42d3-ae3d-63157980e8c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_B1" input
+			(at 95.25 165.1 180)
+			(uuid "ec081c69-a72c-4db5-86ef-8a8e3dfcc5a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_B2" input
+			(at 95.25 165.1 180)
+			(uuid "6d40bdc4-2303-4628-a89c-6719fafd78f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_B3" input
+			(at 95.25 165.1 180)
+			(uuid "b98f4178-2950-4287-9558-95c4af90fbe0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_B4" input
+			(at 95.25 165.1 180)
+			(uuid "9bf1534a-d754-437e-9260-da716630c8c6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_B5" input
+			(at 95.25 165.1 180)
+			(uuid "0ce2b7d0-ba28-4abb-8221-83649a972ea1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_B6" input
+			(at 95.25 165.1 180)
+			(uuid "5b594a57-df46-470b-82c7-8841b0e39b69")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_C2" input
+			(at 95.25 165.1 180)
+			(uuid "8ea2011c-b5ca-4211-96dd-54dd891c6ca4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_C6" input
+			(at 95.25 165.1 180)
+			(uuid "95da59b8-19ac-4394-8304-ccc0ba6bbedc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C0_SCL" input
+			(at 95.25 165.1 180)
+			(uuid "2f514051-4378-4052-9399-b654381dbab0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART0_TX" input
+			(at 95.25 165.1 180)
+			(uuid "38412312-b08a-4433-8bb5-ec125a2e0a32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_B7" input
+			(at 95.25 165.1 180)
+			(uuid "2c99801f-47ee-47ae-b1ff-9bcaca88671e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0_C7" input
+			(at 95.25 165.1 180)
+			(uuid "6f7b08a9-cabb-4355-86a0-5e8dc00c9476")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_A3" input
+			(at 95.25 165.1 180)
+			(uuid "3229ee53-3da4-47bf-87f6-90766d98b173")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_A4" input
+			(at 95.25 165.1 180)
+			(uuid "aac5ca4d-e993-4be8-b656-e6f618746e21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_A6" input
+			(at 95.25 165.1 180)
+			(uuid "a1c02d40-1a29-4fb1-9331-499bc5b48f5d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_A7" input
+			(at 95.25 165.1 180)
+			(uuid "642ca3e0-76ed-4eeb-81dd-6ec1aafce0ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_B0" input
+			(at 95.25 165.1 180)
+			(uuid "2d4582f6-8df3-4426-976d-f3d9c31c40df")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_B1" input
+			(at 95.25 165.1 180)
+			(uuid "2c4595c3-00c7-4ebe-98a5-53d129612c61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1_B3" input
+			(at 95.25 165.1 180)
+			(uuid "91246fd5-434e-4240-a94a-088f62a8c0d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2_D0" input
+			(at 95.25 165.1 180)
+			(uuid "eec7527c-3032-43e1-857a-cf64f566ca24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2_D7" input
+			(at 95.25 165.1 180)
+			(uuid "5e79a42c-a1bd-4b27-849a-52342ed22da0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_A0" input
+			(at 95.25 165.1 180)
+			(uuid "0967f486-fb8d-4d66-a70c-f7cada11effa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_A3" input
+			(at 95.25 165.1 180)
+			(uuid "2440d924-92a1-46e2-a57d-0035e8882622")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_A5" input
+			(at 95.25 165.1 180)
+			(uuid "91a3d48b-9a79-4c8a-a5ce-66767f537b75")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_A6" input
+			(at 95.25 165.1 180)
+			(uuid "c05fcdcd-c6ff-4967-88d8-210d9a05d69e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_A7" input
+			(at 95.25 165.1 180)
+			(uuid "9877aded-7daf-4614-8f9f-f9aefcdd8a30")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C1_SCL" input
+			(at 95.25 165.1 180)
+			(uuid "57fb4bc8-b1b4-4757-8765-c7af256aeeeb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C3_SCL" input
+			(at 95.25 165.1 180)
+			(uuid "5a630c3e-1336-45c4-8874-2794976ad02b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C3_SDA" input
+			(at 95.25 165.1 180)
+			(uuid "190e37d5-70a7-4e63-8041-db243c906a26")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART2_TX" input
+			(at 95.25 165.1 180)
+			(uuid "dd6c0ddd-3cc7-4fe6-a464-c03b44cebd97")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_D2" input
+			(at 95.25 165.1 180)
+			(uuid "b492f317-541e-43f5-9894-208e67051581")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_D6" input
+			(at 95.25 165.1 180)
+			(uuid "70068726-e10f-4957-b679-c3b5b1d5dd9c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3_D7" input
+			(at 95.25 165.1 180)
+			(uuid "be9bc7e6-a953-4971-a23f-b15a3a71c8ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_A2" input
+			(at 95.25 165.1 180)
+			(uuid "55aa74b4-a80b-4909-9e83-87b78b720b50")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_A3" input
+			(at 95.25 165.1 180)
+			(uuid "272f7015-7364-49e9-bcb7-3202f2dfcd47")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_A4" input
+			(at 95.25 165.1 180)
+			(uuid "199d42e4-b42b-48b8-8a9b-13c61cb7154d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_A5" input
+			(at 95.25 165.1 180)
+			(uuid "b7b238e7-a4cb-42a5-bf8d-17beec97582e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_A6" input
+			(at 95.25 165.1 180)
+			(uuid "fed7c4d7-9e19-4aad-ac5e-74d08c236b56")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_A7" input
+			(at 95.25 165.1 180)
+			(uuid "12fae0db-e1ed-4603-b934-d24b74f8d346")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_B0" input
+			(at 95.25 165.1 180)
+			(uuid "735e2b63-1ed4-422d-9997-757328ddd53c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_B1" input
+			(at 95.25 165.1 180)
+			(uuid "447f4d34-4f53-42d3-b808-bfec3b2aea0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_B2" input
+			(at 95.25 165.1 180)
+			(uuid "9f9d6d4d-cd56-43b3-b0d8-ab5cd04a7ebe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_B3" input
+			(at 95.25 165.1 180)
+			(uuid "4e4863fa-5c68-4ed8-a0b0-c7684f4723cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_B4" input
+			(at 95.25 165.1 180)
+			(uuid "126a9818-7db6-42cc-a37d-6e3a31285e18")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_B5" input
+			(at 95.25 165.1 180)
+			(uuid "5fcf82db-cafa-403d-9565-379d3d69bfff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_B6" input
+			(at 95.25 165.1 180)
+			(uuid "592c312e-ce90-42f9-8d77-85e48cd90739")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_B7" input
+			(at 95.25 165.1 180)
+			(uuid "135bdde2-5f09-4cf9-8440-41b3ae03e2e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_C0" input
+			(at 95.25 165.1 180)
+			(uuid "28304422-e211-45c4-a201-a60488b8556e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4_C1" input
+			(at 95.25 165.1 180)
+			(uuid "76f76ec0-3ce9-4d28-a393-c9952647a225")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_CPU" input
+			(at 95.25 165.1 180)
+			(uuid "d5f557d3-33d0-4499-a7b1-8a7d55b5c9a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_LOGIC" input
+			(at 95.25 165.1 180)
+			(uuid "cdc368b5-9e9a-4b02-bb29-f861f2aba8b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC_DDR" input
+			(at 95.25 165.1 180)
+			(uuid "aad395d7-1955-477e-8f78-792f631a8609")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_GPU" input
+			(at 95.25 165.1 180)
+			(uuid "0cd3d9fc-97e9-4bb5-b8b7-fdd22f2852b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_NPU" input
+			(at 95.25 165.1 180)
+			(uuid "493a243d-0d7a-424f-81ab-ef29ddf4601b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "b82c4aa5-eab3-436f-8ec2-c7bf917837f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EDP_TX_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "2b8f017e-9f9c-47b4-bb41-583242b2bd93")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MULTI_PHY_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "78fe71a9-4718-406d-a872-fe56211c8e3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MULTI_PHY_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "1c90ffcd-92ca-4f2f-9930-2f6008d8873b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OTP_VCC18" input
+			(at 95.25 165.1 180)
+			(uuid "981f92b6-527e-4ce9-a818-2881350c5297")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SARADC_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "2aeb355b-8a7c-4653-9f2e-5b22348ebec1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SYSPLL_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "d5ff737e-178e-4b35-a363-af1e9a56e2e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SYSPLL_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "a9144e89-231c-4371-b61b-6a5281903a9c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB2_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "c17b199e-30bf-4891-b494-5957c0f118b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB2_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "50bf1437-0ee1-4135-9710-f039ecb989b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB2_AVDD_3V3" input
+			(at 95.25 165.1 180)
+			(uuid "623dc6bd-303f-4e78-a1b2-7965fa8a47e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "3be47310-5b1d-49df-8641-8cf037789da4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "7de2a908-30a8-48b0-b412-7f963aa83534")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_AVDD_3V3" input
+			(at 95.25 165.1 180)
+			(uuid "bcd42cae-f9b9-4a0a-8f5d-421e914be102")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCCIO1" input
+			(at 95.25 165.1 180)
+			(uuid "8fcbae75-ec52-4701-8d5f-f50b8d3d9eed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCCIO2" input
+			(at 95.25 165.1 180)
+			(uuid "4ca724de-a4ff-4f11-bfc1-833f482146e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCCIO3" input
+			(at 95.25 165.1 180)
+			(uuid "bb521884-f4f3-4ccc-84f7-dbc7a6e117c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCCIO4" input
+			(at 95.25 165.1 180)
+			(uuid "99554c56-b17d-4684-83d5-54caa94105d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCCIO6" input
+			(at 95.25 165.1 180)
+			(uuid "896546fe-37d6-420f-99c6-88a75db5df81")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "35c38665-774c-4dcd-bb32-d52ab7544e55")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "6614f598-d05b-4121-bf00-b7f9d1a84be4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "8ae15c61-b407-44e1-8cea-910e165eb19a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_CSI_RX_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "65cd7432-5d93-4baf-9350-368851516533")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "90ff27ac-707d-45d6-9075-906d141b513e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX0_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "49b88f4f-ad61-4efd-84a3-03bfaf8dbdd5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "e6986305-4f54-41bb-94e5-e4e1edd42e62")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MIPI_DSI_TX1_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "6fda1817-e3f3-4b05-9790-98b5f0799538")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "29e9cf1a-d4b9-4896-8a4b-73e219a4a1e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "be51d4ef-4933-4294-aca3-9314ee6ac12b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMUIO1" input
+			(at 95.25 165.1 180)
+			(uuid "63989b45-064f-4295-8d0a-3e4c67b0560b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMUIO2" input
+			(at 95.25 165.1 180)
+			(uuid "f245db4e-363c-4c8a-bee5-1657a5cd68d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMUPLL_AVDD_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "83ab8cbe-6710-40f4-8de9-b8188e46d552")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMUPLL_AVDD_1V8" input
+			(at 95.25 165.1 180)
+			(uuid "63287e42-25b1-4340-a36c-64eff71993de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMU_VDD_LOGIC_0V9" input
+			(at 95.25 165.1 180)
+			(uuid "f602a176-acd2-4ed7-aadc-85b8e260ebf6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCCIO5" input
+			(at 95.25 165.1 180)
+			(uuid "82af3408-d8bd-4b17-b86e-4943cc252ff1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCCIO7" input
+			(at 95.25 165.1 180)
+			(uuid "88109368-ba8a-45cb-bdf7-4277625a734b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 	)
 	(sheet
 		(at 30.48 30.48)
@@ -449,6 +4269,66 @@
 		(pin "PMIC_SLEEP" input
 			(at 30.48 66.04 180)
 			(uuid "8b96560f-c868-4b32-b491-9a6092f332bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC_DDR" input
+			(at 30.48 68.58 180)
+			(uuid "9a683482-836d-4767-b068-4cc52342af5b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDC" input
+			(at 30.48 71.12 180)
+			(uuid "37950ffb-6ef8-4bfe-991a-274e143de5a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_CPU" input
+			(at 30.48 73.66 180)
+			(uuid "9a4837a5-73a8-4f72-907c-8e83c0c27359")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_GPU" input
+			(at 30.48 76.2 180)
+			(uuid "6c26d246-3b5b-4227-bf26-5f842610c989")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_LOGIC" input
+			(at 30.48 78.74 180)
+			(uuid "56f448f8-8b55-40fc-95d3-caddbdb70832")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VDD_NPU" input
+			(at 30.48 81.28 180)
+			(uuid "6173db7e-dd56-49db-8728-89cc4ddfdf74")
 			(effects
 				(font
 					(size 1.27 1.27)
