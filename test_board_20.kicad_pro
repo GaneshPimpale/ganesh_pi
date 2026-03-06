@@ -502,82 +502,6 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "DDR4_ADDR",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
-        "schematic_color": "rgb(51, 153, 255)",
-        "track_width": 0.2,
-        "tuning_profile": "",
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
-        "wire_width": 8
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "DDR4_CLK",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
-        "schematic_color": "rgb(0, 51, 136)",
-        "track_width": 0.2,
-        "tuning_profile": "",
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
-        "wire_width": 8
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "DDR4_DATA",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
-        "schematic_color": "rgb(0, 102, 204)",
-        "track_width": 0.2,
-        "tuning_profile": "",
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
-        "wire_width": 8
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "DDR4_DQS",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
-        "schematic_color": "rgb(0, 68, 170)",
-        "track_width": 0.2,
-        "tuning_profile": "",
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
-        "wire_width": 8
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
         "name": "EDP",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": -1,
@@ -639,6 +563,82 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": -1,
         "schematic_color": "rgb(204, 0, 102)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "LPDDR4X_CA",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": -1,
+        "schematic_color": "rgb(0, 0, 0)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "LPDDR4X_CLK",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": -1,
+        "schematic_color": "rgb(0, 0, 0)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "LPDDR4X_DATA",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": -1,
+        "schematic_color": "rgb(0, 0, 0)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "LPDDR4X_DQS",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": -1,
+        "schematic_color": "rgb(0, 0, 0)",
         "track_width": 0.2,
         "tuning_profile": "",
         "via_diameter": 0.6,
@@ -900,68 +900,64 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "DDR4_DATA",
-        "pattern": "DDR*_DQ[0-9]*"
+        "netclass": "LPDDR4X_DATA",
+        "pattern": "DDR_DQ[0-9]*"
       },
       {
-        "netclass": "DDR4_DATA",
-        "pattern": "DDR*_DM*"
+        "netclass": "LPDDR4X_DATA",
+        "pattern": "DDR_DM*"
       },
       {
-        "netclass": "DDR4_DQS",
-        "pattern": "DDR*_DQS*"
+        "netclass": "LPDDR4X_DQS",
+        "pattern": "DDR_DQS*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_A[0-9]*"
+        "netclass": "LPDDR4X_CA",
+        "pattern": "LPDDR4_CA*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_BA*"
+        "netclass": "LPDDR4X_CA",
+        "pattern": "LPDDR4_CS*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_BG*"
+        "netclass": "LPDDR4X_CA",
+        "pattern": "LPDDR4_CKE*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_RAS*"
+        "netclass": "LPDDR4X_CA",
+        "pattern": "LPDDR4_ODT*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_CAS*"
+        "netclass": "LPDDR4X_CA",
+        "pattern": "LPDDR4_RESET*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_WE*"
+        "netclass": "LPDDR4X_CLK",
+        "pattern": "LPDDR4_CK_*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_CS*"
+        "netclass": "LPDDR4X_CA",
+        "pattern": "DDR_ZQ*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_CKE*"
+        "netclass": "PWR_DDR",
+        "pattern": "VDD1_DDR*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_ODT*"
+        "netclass": "PWR_DDR",
+        "pattern": "VDD2_DDR*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_RESET*"
+        "netclass": "PWR_DDR",
+        "pattern": "VDDQ_DDR*"
       },
       {
-        "netclass": "DDR4_ADDR",
-        "pattern": "DDR*_ACT*"
+        "netclass": "PWR_DDR",
+        "pattern": "VCC_DDR*"
       },
       {
-        "netclass": "DDR4_CLK",
-        "pattern": "DDR*_CLK*"
-      },
-      {
-        "netclass": "DDR4_CLK",
-        "pattern": "DDR*_CK*"
+        "netclass": "PWR_DDR",
+        "pattern": "DDRPHY*VDD*"
       },
       {
         "netclass": "HDMI_TMDS",
@@ -1132,18 +1128,6 @@
         "pattern": "VDD_NPU*"
       },
       {
-        "netclass": "PWR_DDR",
-        "pattern": "VCC_DDR*"
-      },
-      {
-        "netclass": "PWR_DDR",
-        "pattern": "VDDQ*"
-      },
-      {
-        "netclass": "PWR_DDR",
-        "pattern": "DDRPHY*VDD*"
-      },
-      {
         "netclass": "PWR_IO",
         "pattern": "VCCIO*"
       },
@@ -1158,10 +1142,6 @@
       {
         "netclass": "PWR_ANALOG",
         "pattern": "*AVDD*"
-      },
-      {
-        "netclass": "PWR_ANALOG",
-        "pattern": "*_AVDD_*"
       }
     ]
   },
@@ -1293,7 +1273,7 @@
         "uuid": "6ade62f6-9cb2-4783-8048-f18138ca0ff8"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U2",
     "variants": []
   },
   "sheets": [
