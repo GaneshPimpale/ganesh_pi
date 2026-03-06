@@ -4,6 +4,9 @@
 	(generator_version "10.0")
 	(uuid "9017bf38-7ed3-4fc9-8920-ca4bea22e865")
 	(paper "A4" portrait)
+	(title_block
+		(title "LPDDR4X Memory")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers

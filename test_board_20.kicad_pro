@@ -1273,7 +1273,7 @@
         "uuid": "6ade62f6-9cb2-4783-8048-f18138ca0ff8"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U13,R7-9,C65-81,#PWR105-145",
     "variants": []
   },
   "sheets": [
@@ -1286,12 +1286,12 @@
       "Power Supply"
     ],
     [
-      "bd8c44fc-7be1-4b15-b72c-bdb7e77a903a",
+      "d3c630df-b147-44f4-bec8-a7b2c063ed94",
       "SoC"
     ],
     [
-      "3876e69e-6906-49f1-be46-966a4c28706e",
-      "DDR Memory"
+      "eae48b1c-6f29-4014-aa97-8a1edef10023",
+      "LPDDR4X Memory"
     ],
     [
       "2988873c-a49d-4427-8b5f-52350d5f3ce7",
