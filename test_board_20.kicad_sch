@@ -253,6 +253,13 @@
 				(justify left)
 			)
 		)
+		(instances
+			(project ""
+				(path "/6ade62f6-9cb2-4783-8048-f18138ca0ff8"
+					(page "5")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 160.02 30.48)
@@ -1052,10 +1059,17 @@
 				(justify left)
 			)
 		)
+		(instances
+			(project ""
+				(path "/6ade62f6-9cb2-4783-8048-f18138ca0ff8"
+					(page "4")
+				)
+			)
+		)
 	)
 	(sheet
-		(at 354.33 30.48)
-		(size 55 158.75)
+		(at 359.41 30.48)
+		(size 49.92 665.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1070,7 +1084,7 @@
 		)
 		(uuid "4eb2be6d-488d-47f9-9cb2-3988f83e4b85")
 		(property "Sheetname" "USB"
-			(at 354.33 29.7684 0)
+			(at 359.41 29.7684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1081,7 +1095,7 @@
 			)
 		)
 		(property "Sheetfile" "usb.kicad_sch"
-			(at 354.33 189.8146 0)
+			(at 359.41 696.5446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1089,6 +1103,556 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "DP1_AUX_N" input
+			(at 359.41 33.02 180)
+			(uuid "b1c26930-4cb4-4f16-879e-0d214694c70d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_AUX_P" input
+			(at 359.41 35.56 180)
+			(uuid "81ae5f8a-5033-476c-998f-b16ad58e2f65")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_HPD" input
+			(at 359.41 38.1 180)
+			(uuid "9874efaf-81be-4235-9933-3fc9af4a8d96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX0_N" input
+			(at 359.41 40.64 180)
+			(uuid "a3d1c568-daa5-4482-a520-cd765a922a15")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX0_P" input
+			(at 359.41 43.18 180)
+			(uuid "2335f222-17cb-4aed-9969-df1c32a9e8ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX1_N" input
+			(at 359.41 45.72 180)
+			(uuid "063b1526-0d85-4b80-8c74-3e04b677e7b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX1_P" input
+			(at 359.41 48.26 180)
+			(uuid "92ab2e2c-1d00-4442-afb6-bac730bffb0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX2_N" input
+			(at 359.41 50.8 180)
+			(uuid "5342bbe8-4e78-4d6c-850d-ed082d19c36e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX2_P" input
+			(at 359.41 53.34 180)
+			(uuid "4cc126b1-2284-4d17-bfe4-84dcf7949ade")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX3_N" input
+			(at 359.41 55.88 180)
+			(uuid "ae130815-57ad-4407-a3f4-0d96c130685d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DP1_TX3_P" input
+			(at 359.41 58.42 180)
+			(uuid "92564467-df8f-4e4e-8770-13ae790bc21b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_SSRXN" input
+			(at 359.41 60.96 180)
+			(uuid "04372c5b-f5c2-4ad4-b74d-74d0e5454e26")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_SSRXP" input
+			(at 359.41 63.5 180)
+			(uuid "46cbcef8-aeac-4ef5-96dc-95e721e41de0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_SSTXN" input
+			(at 359.41 66.04 180)
+			(uuid "edd7e79e-a8c5-499c-89b7-4b687473a838")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_SSTXP" input
+			(at 359.41 68.58 180)
+			(uuid "4c180cd4-dda1-4c63-8f1e-a64c02373a6c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TUSB1064_SCL" input
+			(at 359.41 71.12 180)
+			(uuid "24f6f983-9a46-4d21-9046-aa201ba7aa2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TUSB1064_SDA" input
+			(at 359.41 73.66 180)
+			(uuid "dbe86d66-2f0b-485b-858e-600ddac301aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_PERSTN" input
+			(at 359.41 76.2 180)
+			(uuid "420b0ab6-769d-4ad6-a089-838763cebaa4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_REFCLKN" input
+			(at 359.41 78.74 180)
+			(uuid "b84f1d41-33aa-4bb5-a134-990de817954f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_REFCLKP" input
+			(at 359.41 81.28 180)
+			(uuid "9df1a0e6-d740-4b2e-ba84-f30642eb5791")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_RXN" input
+			(at 359.41 83.82 180)
+			(uuid "ef7a6bec-2ac4-400d-8eb3-7e5d08a23051")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_RXP" input
+			(at 359.41 86.36 180)
+			(uuid "e793048d-159f-4a49-8ebd-9f038a6e63ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_TXN" input
+			(at 359.41 88.9 180)
+			(uuid "d4b49a4a-89c7-44d0-8892-3d36b1182182")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_TXP" input
+			(at 359.41 91.44 180)
+			(uuid "c8ae4b1e-3342-4b0d-8238-b960ea6fc89f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_CLK_N" input
+			(at 359.41 93.98 180)
+			(uuid "6b40d56b-9eb2-4b84-85ec-7af7c5fc6ff2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_CLK_P" input
+			(at 359.41 96.52 180)
+			(uuid "ef0ccd1b-8a16-4c0b-926e-909355d45b0c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX0_N" input
+			(at 359.41 99.06 180)
+			(uuid "ba738573-b87f-456b-aba2-7dccddbc6a6a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX0_P" input
+			(at 359.41 101.6 180)
+			(uuid "f214dfaa-c79b-4ef2-8b8b-c2acea06a1e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX1_N" input
+			(at 359.41 104.14 180)
+			(uuid "5b169bf7-01db-4d4a-8ba1-fa5a54d183e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX1_P" input
+			(at 359.41 106.68 180)
+			(uuid "9a646072-a770-4b3f-8f65-9917b60c9f8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX2_N" input
+			(at 359.41 109.22 180)
+			(uuid "68564dde-0d54-42af-8805-a7a84bf75bb0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HDMI_TX2_P" input
+			(at 359.41 111.76 180)
+			(uuid "5dd98e58-8868-439c-a4c3-4a24e7b96b63")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_HOST1_DM" input
+			(at 359.41 114.3 180)
+			(uuid "c26ae2a7-f7b0-482c-9f09-3139833beefb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_HOST1_DP" input
+			(at 359.41 116.84 180)
+			(uuid "d5640f75-5234-4d4a-934f-32bcd20dcdf6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_DM" input
+			(at 359.41 119.38 180)
+			(uuid "d380ae71-372b-4d32-a095-95b73dcf60db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_DP" input
+			(at 359.41 121.92 180)
+			(uuid "130c356a-72da-453a-9db5-75fd826c2424")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB3_OTG0_VBUSDET" input
+			(at 359.41 124.46 180)
+			(uuid "fbcba4b7-d46d-4b83-96c1-e1783307b8b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_SBU1" input
+			(at 359.41 132.08 180)
+			(uuid "9f7b068b-960f-4213-90be-3e99d9a382d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_C_HDMI_SBU2" input
+			(at 359.41 134.62 180)
+			(uuid "7782f8bf-9234-462d-bff7-f5a1960c6215")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P1_PD_INT_N" input
+			(at 359.41 137.16 180)
+			(uuid "4a76439b-871a-43cb-adfe-4bc0338f831a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P1_PD_SCL" input
+			(at 359.41 139.7 180)
+			(uuid "4c293248-2e6d-446a-b4e5-f4cb5d8ccc3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P1_PD_SDA" input
+			(at 359.41 142.24 180)
+			(uuid "759e1c96-c54f-4d81-8385-f518fc188cf0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P2_PD_INT_N" input
+			(at 359.41 144.78 180)
+			(uuid "649b75ed-2b0a-449f-81a9-941f4a975cf9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P2_PD_SCL" input
+			(at 359.41 147.32 180)
+			(uuid "ae796a3f-6790-4d9c-9aa3-44b391ca67d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P2_PD_SDA" input
+			(at 359.41 149.86 180)
+			(uuid "a3d84f6e-11d0-43cb-a22d-e051019146c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P3_PD_INT_N" input
+			(at 359.41 152.4 180)
+			(uuid "e7df6ee9-18d3-4037-b548-68a0293da913")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P3_PD_SCL" input
+			(at 359.41 154.94 180)
+			(uuid "d0639d05-8f2b-4eb1-bb01-e328c4f1b952")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P3_PD_SDA" input
+			(at 359.41 157.48 180)
+			(uuid "886a9b2c-124b-4f45-9cd7-a05782a687ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P4_PD_INT_N" input
+			(at 359.41 160.02 180)
+			(uuid "3cf941c8-8b44-4a5f-b0ca-7c591c2f8b1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P4_PD_SCL" input
+			(at 359.41 162.56 180)
+			(uuid "946e158a-b5ea-43d5-9120-45b42092a6b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P4_PD_SDA" input
+			(at 359.41 165.1 180)
+			(uuid "29bdecd3-69c4-462a-99f7-ada18128b86f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P3_MUX_OE" input
+			(at 359.41 167.64 180)
+			(uuid "6b40d47c-53b5-4e24-9ea3-5f0ffc695c4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P3_MUX_SEL" input
+			(at 359.41 170.18 180)
+			(uuid "810b2899-cb02-4177-a8cf-e8e08ef25c09")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P4_MUX_OE" input
+			(at 359.41 172.72 180)
+			(uuid "a418465e-b7e2-41ec-9b61-2002aa355e2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "P4_MUX_SEL" input
+			(at 359.41 175.26 180)
+			(uuid "7db5841d-fb6d-4fa8-8a29-166138e0c5cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -2007,6 +2571,13 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(instances
+			(project ""
+				(path "/6ade62f6-9cb2-4783-8048-f18138ca0ff8"
+					(page "6")
+				)
 			)
 		)
 	)
@@ -6347,6 +6918,13 @@
 				(justify left)
 			)
 		)
+		(instances
+			(project ""
+				(path "/6ade62f6-9cb2-4783-8048-f18138ca0ff8"
+					(page "3")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 30.48 30.48)
@@ -6584,6 +7162,13 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(instances
+			(project ""
+				(path "/6ade62f6-9cb2-4783-8048-f18138ca0ff8"
+					(page "2")
+				)
 			)
 		)
 	)
