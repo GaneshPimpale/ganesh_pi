@@ -1273,7 +1273,7 @@
         "uuid": "6ade62f6-9cb2-4783-8048-f18138ca0ff8"
       }
     ],
-    "used_designators": "SW1,L1-5,J1-8,#PWR1-215,C1-113,D1-2,Y1-5,U1-20,R1-13",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
